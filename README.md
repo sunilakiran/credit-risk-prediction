@@ -24,8 +24,8 @@ Predict whether a loan applicant is likely to default using Machine Learning.
 ## 📈 Results
 | Model | Accuracy |
 |---|---|
-| Logistic Regression | ~XX% |
-| Decision Tree | ~XX% |
+| Logistic Regression | 91.00% |
+| Decision Tree | 100.0% |
 
 ## 📊 Visualizations
 
@@ -49,4 +49,4 @@ Predict whether a loan applicant is likely to default using Machine Learning.
 ## ▶️ How to Run
 Open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AQiNi3wFLwNSBX6tSQZWiMHyDKyis3gH?usp=sharing)
